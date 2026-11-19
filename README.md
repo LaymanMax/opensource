@@ -20,7 +20,7 @@ List anything the user needs to have installed before they can use this project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/LaymanMax/<repo-name>.git
 cd repo-name
 
 # Install dependencies
